@@ -1,12 +1,14 @@
 # Sales Data Analysis (Superstore Dataset)
 
-## Name:Rachita
+## Name
+Rachita
 
 ## Objective
 Analyze business performance using sales data.
 
 ## Dataset
 Superstore dataset (cleaned version)
+https://www.kaggle.com/datasets/nafeesalmahadi/superstore-sales-analytics-dataset-2026
 
 ## Steps Performed
 - Data Cleaning
